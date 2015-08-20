@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/RedisLabs/redis-rb.git
+  revision: a95affbca2bed4d0b7e6c7a3add135de07c8f720
+  branch: ssl
+  specs:
+    redis (3.0.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis!
+
+BUNDLED WITH
+   1.10.6
